@@ -4,7 +4,7 @@ in climaxes . Many data scientists and traders want to work on the mentioned reg
 In this project you can run the code to find directional changes points , sections and climaxes . You can change the parameters for suited for your demand.  
 Image below is trying to describe the directional changes and for more information you can check <a href="https://www.mlfinlab.com/en/latest/feature_engineering/directional_change.html#:~:text=Directional%20Change%20(DC)%20is%20a,and%20Overshoot%20(OS)%20Event.">DC explain</a>:
 
-<img src="DC.PNG">
+<img src="DC.png">
 
 Also You can see the plot of the result in the image below :
 
